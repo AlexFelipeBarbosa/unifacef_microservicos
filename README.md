@@ -4,7 +4,7 @@
 
 ### :computer: Professor: Cleber Costa da Fonseca
 
-### :man: Autor
+### :man: Autor: Alex Felipe Barbosa
 
 ---
 
